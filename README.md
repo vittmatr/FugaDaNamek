@@ -4,7 +4,7 @@ Questo è un progetto svolto per l'esame di "Interfacce grafiche e Programmazion
 Il programma consiste in un semplice videogioco a tema DragonBall in cui bisogna proteggere un elemento.
 Sono previsti power-up e selezione del livello di difficoltà.
 La colonna sonora è coerente all'anime originale.
-Il gioco è stato sviluppato con Java (swing) e Eclipse.
+Il gioco è stato sviluppato interamente con Java (Swing).
 
 Schermata introduttiva:
 ![Intro](https://user-images.githubusercontent.com/78265579/132211131-abbc9cfd-f6cd-4c9f-8c76-20950ce9ca56.png)
@@ -15,6 +15,8 @@ Schermata di gioco:
 Schermata di game over:
 ![game over](https://user-images.githubusercontent.com/78265579/132211383-8ffa6c36-4080-411e-98e6-9b6a7bb740c3.png)
 
-Video di presentazione del gioco: 
-https://www.youtube.com/watch?v=IPup5dgHgGA&ab_channel=VittorioMariaMatranga
+<center>  <a href="https://www.youtube.com/watch?v=IPup5dgHgGA&ab_channel=VittorioMariaMatranga">
+    <img src="https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Download on Google Play"/>
+  </a>
+</center>
 
